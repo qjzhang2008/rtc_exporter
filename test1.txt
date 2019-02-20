@@ -1,0 +1,1 @@
+{"server":"rtc1","data":{"timestamp":"123456789","user":100,"qps":2}}

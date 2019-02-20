@@ -1,0 +1,8 @@
+{
+	"exporter": {
+        "dest": "http://117.50.36.228:9091",
+	    "jobname":"rtc_monitor",
+        "filename": "test1.txt",
+		"interval":10
+    }
+}
